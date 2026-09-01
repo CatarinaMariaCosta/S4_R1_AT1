@@ -14,4 +14,4 @@
 *A empresa  atua no ramo dos filmes, oferecendo os romances clássicos, terror, ficção cientifica, fantasia e entre outros.
 Sempre dando espaço para que os cliente saibam a sinopse e a nota do maiores clásicos.*
 
->*Projeto realizado pelos estudantes: Catarina Costa & Laura magalhães*
+>*Projeto realizado pelos estudantes: Catarina Costa & Laura Magalhães*
