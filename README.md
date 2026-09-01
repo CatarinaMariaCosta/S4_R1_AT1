@@ -1,6 +1,6 @@
 # **Portal intitucional da Empresa - De volta para os clássicos** 📽️⭐
 
-## ⚙️ **ferramentas/ linguagem** ⚙️
+## ⚙️ **Ferramentas/ Linguagem** ⚙️
 * *Github* 🐈‍⬛
 * *VScode* 🔵
 * *HTML5* 
